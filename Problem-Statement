@@ -1,0 +1,50 @@
+DV - Optimizing IT Support Team Performance Using Analytics ( Supportlytics)
+
+Project Statement
+The objective of this project is to analyze IT support ticket data to identify key performance
+trends, optimize resolution times, and enhance service efficiency through data analysis and
+visualization.
+The goal is to uncover patterns in customer requests, technical issues, and support performance
+metrics to recommend improvements in workflow and resource allocation.
+
+Expected Outcomes
+• Understand and preprocess IT support ticket data for analysis.
+• Explore trends in ticket volume, priority, resolution time, and category distribution.
+• Identify clusters of similar issues using similarity scores and clustering techniques.
+• Visualize performance metrics through dashboards and charts.
+• Derive actionable insights to optimize IT support operations.
+• Summarize findings in a final analytical report and presentation.
+
+Modules to be Implemented :-
+Data Acquisition and Understanding
+• Load and inspect the IT support dataset.
+Dataset
+Source: Internal IT Support Ticket System
+• Understand column types and relationships.
+• Define metrics: resolution time, response efficiency, and priority distribution.
+Data Cleaning and Feature Engineering
+• Handle missing or incomplete fields.
+• Extract new columns like Resolution_Time = Resolution Date - Date.
+• Categorize Similarity_Level into performance buckets.
+• Encode categorical fields for clustering and visualization.
+Exploratory Data Analysis (EDA)
+• Analyze ticket types (Request, Problem, Incident).
+• Visualize ticket volume by country and priority.
+• Examine most common issue categories (Integration, Security, Bug, etc.).
+
+Cluster and Similarity Analysis
+• Study clusters formed using Cluster_ID and Cluster_Name.
+• Measure issue similarity via Similarity_Score.
+• Identify frequently occurring issue clusters and their resolution rates.
+Performance Insights and Optimization
+• Compare resolution times across priorities and countries.
+• Detect performance gaps in certain clusters or categories.
+• Recommend resource reallocation or process changes for improvement.
+Visualization and Dashboard Development
+• Create bar charts, heatmaps, and line charts using:
+o Matplotlib, Seaborn, Plotly, or Power BI.
+• Visualize:
+o Ticket distribution by category and country
+o Resolution efficiency by priority
+o Cluster performance vs. Similarity Score
+o Geographical trends using maps
