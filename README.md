@@ -1,13 +1,13 @@
 
 ## DV - Optimizing IT Support Team Performance Using Analytics
 
-### 📌 Project Overview
+###  Project Overview
 **Supportlytics** is a Data Visualization & Analytics project focused on analyzing IT support ticket data to uncover performance trends, optimize resolution times, and improve service efficiency.  
 The project leverages data preprocessing, exploratory analysis, clustering, and visual dashboards to provide actionable insights for enhancing IT support operations.
 
 ---
 
-## 🧩 Project Statement
+##  Project Statement
 The objective of this project is to analyze IT support ticket data to:
 
 - Identify key performance trends  
@@ -18,19 +18,19 @@ The goal is to uncover patterns in customer requests, technical issues, and supp
 
 ---
 
-## 🎯 Expected Outcomes
+##  Expected Outcomes
 By the end of this project, we aim to:
 
-✅ Understand and preprocess IT support ticket data  
-✅ Explore trends in ticket volume, priority, resolution time, and issue categories  
-✅ Identify clusters of similar issues using similarity scores and clustering techniques  
-✅ Visualize key performance metrics through dashboards and charts  
-✅ Generate actionable insights to optimize support operations  
-✅ Prepare a final analytical report and presentation  
+- Understand and preprocess IT support ticket data  
+- Explore trends in ticket volume, priority, resolution time, and issue categories  
+- Identify clusters of similar issues using similarity scores and clustering techniques  
+- Visualize key performance metrics through dashboards and charts  
+- Generate actionable insights to optimize support operations  
+- Prepare a final analytical report and presentation  
 
 ---
 
-## 📂 Dataset Details
+##  Dataset Details
 - **Source:** Kaggle
 - **Type:** IT Support Ticket Logs  
 - **Common Attributes (example):**
@@ -46,9 +46,9 @@ By the end of this project, we aim to:
 
 ---
 
-## 🛠️ Modules Implemented
+##  Modules Implemented
 
-### 1️⃣ Data Acquisition and Understanding
+### 1. Data Acquisition and Understanding
 - Load and inspect IT support dataset  
 - Understand column types and relationships  
 - Define key metrics such as:
@@ -58,7 +58,7 @@ By the end of this project, we aim to:
 
 ---
 
-### 2️⃣ Data Cleaning & Feature Engineering
+### 2. Data Cleaning & Feature Engineering
 - Handle missing or incomplete fields  
 - Create new derived columns such as:
   - `Resolution_Time = Resolution_Date - Created_Date`
@@ -67,7 +67,7 @@ By the end of this project, we aim to:
 
 ---
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 - Analyze ticket types:
   - Request
   - Problem
@@ -79,7 +79,7 @@ By the end of this project, we aim to:
 
 ---
 
-### 4️⃣ Performance Insights & Optimization
+### 4. Performance Insights & Optimization
 - Compare resolution times across:
   - Priorities
   - Countries
@@ -93,7 +93,7 @@ By the end of this project, we aim to:
 
 ---
 
-### 5️⃣ Visualization & Dashboard Development
+### 5. Visualization & Dashboard Development
 Dashboards and charts created using:
 
 - **Power BI**
@@ -110,7 +110,7 @@ Dashboards and charts created using:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 - **Power BI**
 - **Python**
 - **Pandas, NumPy**
@@ -121,7 +121,7 @@ Dashboards and charts created using:
 
 ---
 
-## 📊 Key Metrics Used
+##  Key Metrics Used
 - Ticket Volume Trends  
 - Category Distribution  
 - Priority Distribution  
