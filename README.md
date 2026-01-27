@@ -111,12 +111,13 @@ Dashboards and charts created using:
 ---
 
 ## 🧰 Tech Stack
+- **Power BI**
 - **Python**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn**
 - **Plotly**
 - **Scikit-learn** (for clustering)
-- *(Optional)* Power BI
+  
 
 ---
 
